@@ -7,15 +7,27 @@ section{
     margin-bottom:20px ;
     position: relative;
 }
+
+body {
+    background-color: rgb(180, 204, 255);
+}
+
 .banner{
     background-image:url(../images/banner.jpg);
     min-height: 50vh;
     background-size: cover;
-}    
+} 
 
-.h1 {
-    font-family: Arial, Helvetica, sans-serif;
-    
+.banner-text-container {
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.date-picker {
+    font-family: sans-serif;
+    position: absolute;
+    border: 1px solid rgba(255, 255, 255, 0.594);
+    padding: 6px 15px;
 }
 
 .header{
@@ -55,7 +67,6 @@ section{
 .col img{
     width: 100%;
 }
-
 
 .gallery-images{
     display: flex;
