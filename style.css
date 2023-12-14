@@ -49,7 +49,7 @@ body {
     flex-direction: column;
     width: 100%;
     height: 100%;
-    font-family: sans-serif;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
     justify-content: center;
     align-items: center;
@@ -66,6 +66,19 @@ body {
     color: #fff;
 
 }
+
+.description {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.gallery-title {
+    text-align: center;
+    font-size: 45px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 30px;
+}
+
 .two-cols-flex{
     display: flex;
     flex-direction: row;
