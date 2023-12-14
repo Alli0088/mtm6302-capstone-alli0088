@@ -8,3 +8,4 @@ I wanted a simple design for this Nasa api website, I included white sans serif 
 
 Capstone Part 3 Report:
 The first step I took when creating the html website outline was to include all the necessary items such as the banner image, date picker, and gallery. The next step was to establish the css styling, using the tags I created to add a blue background to the body, the date picker styling, and a search engine.
+Images sourced from https://api.nasa.gov
