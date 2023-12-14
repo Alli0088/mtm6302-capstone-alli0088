@@ -34,6 +34,7 @@ body {
     font-family: sans-serif;
     position: absolute;
     background-color: black;
+    color: #fff;
     border: 1px solid rgba(255, 255, 255, 0.594);
     padding: 6px 15px;
     bottom: 20px;
